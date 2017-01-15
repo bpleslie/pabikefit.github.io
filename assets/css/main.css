@@ -1872,3 +1872,8 @@
 	.technology {
 		width: 60%;
 	}
+
+	#logo {
+		max-width: 200px;
+		margin-top: 20px !important;
+	}
