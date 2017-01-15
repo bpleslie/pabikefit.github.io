@@ -1286,7 +1286,7 @@
 			}
 
 			#features-wrapper {
-				background: #0AAFB6;
+				background: #ccc;
 				border-bottom: solid 1px #272e31;
 				padding: 45px 0 45px 0;
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
@@ -1572,7 +1572,7 @@
 			}
 
 			#features-wrapper {
-				background: #0AAFB6;
+				background: #ccc;
 				padding: 15px 15px 30px 15px;
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
