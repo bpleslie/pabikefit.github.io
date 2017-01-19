@@ -1206,7 +1206,7 @@
 		outline: 0;
 		border-radius: 10px;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), inset 0px 2px 0px 0px rgba(255, 192, 192, 0.5), inset 0px 0px 0px 2px rgba(255, 96, 96, 0.85), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
-		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.5);
+		/*text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.5);*/
 	}
 
 		.button-big:hover {
@@ -1275,10 +1275,10 @@
 		/* Wrappers */
 
 			#header-wrapper {
-				background: #edf6f6;
+				background: #f6f7f9;
 				border-bottom: solid 1px #272d30;
 				box-shadow: inset 0px -1px 0px 0px #51575a;
-				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+				/*text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);*/
 			}
 
 			.subpage #header-wrapper {
@@ -1286,21 +1286,21 @@
 			}
 
 			#features-wrapper {
-				background: #ccc;
+				background: #41b4b8;
 				border-bottom: solid 1px #272e31;
 				padding: 45px 0 45px 0;
-				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+				/*text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);*/
 			}
 
 			#content-wrapper {
-				background: #f7f7f7 url("images/bg04.png");
+				background: #f6f7f9 url("images/bg04.png");
 				border-top: solid 1px #fff;
 				padding: 45px 0 45px 0;
 			}
 
 			#footer-wrapper {
 				padding: 45px 0 45px 0;
-				text-shadow: 1px 1px 1px white;
+				/*text-shadow: 1px 1px 1px white;*/
 			}
 
 		/* Header */
@@ -1414,7 +1414,7 @@
 
 			#footer {
 				color: #546b76;
-				text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
+				/*text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);*/
 			}
 
 				#footer h2 {
@@ -1568,13 +1568,13 @@
 			#header-wrapper {
 				background: #edf6f6;
 				box-shadow: inset 0px -1px 0px 0px #272d30, inset 0px -2px 0px 0px #51575a;
-				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+				/*text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);*/
 			}
 
 			#features-wrapper {
 				background: #ccc;
 				padding: 15px 15px 30px 15px;
-				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+				/*text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);*/
 			}
 
 			#content-wrapper {
@@ -1588,7 +1588,7 @@
 
 			#footer-wrapper {
 				padding: 40px 15px 15px 15px;
-				text-shadow: 1px 1px 1px white;
+				/*text-shadow: 1px 1px 1px white;*/
 			}
 
 		/* Header */
@@ -1682,7 +1682,7 @@
 
 			#footer {
 				color: #546b76;
-				text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
+				/*text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);*/
 			}
 
 				#footer section {
@@ -1711,7 +1711,7 @@
 				text-align: center;
 				padding: 20px 30px 20px 30px;
 				color: #8d9ca3;
-				text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
+				/*text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);*/
 			}
 
 				#copyright a {
@@ -1751,7 +1751,7 @@
 				color: #fff;
 				background: url("images/bg04.jpg");
 				box-shadow: inset 0px -20px 70px 0px rgba(200, 220, 245, 0.1), inset 0px -1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 7px 0px rgba(0, 0, 0, 0.6);
-				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+				/*text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);*/
 			}
 
 				#titleBar .title {
@@ -1779,7 +1779,7 @@
 						color: #fff;
 						background: rgba(255, 255, 255, 0.025);
 						box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.1), inset 0px 0px 0px 1px rgba(255, 255, 255, 0.05), inset 0px -8px 10px 0px rgba(0, 0, 0, 0.15), 0px 1px 2px 0px rgba(0, 0, 0, 0.25);
-						text-shadow: -1px -1px 1px black;
+						/*text-shadow: -1px -1px 1px black;*/
 						width: 49px;
 						height: 31px;
 						border-radius: 8px;
@@ -1824,7 +1824,7 @@
 				z-index: 10002;
 				background: url("images/bg04.jpg");
 				box-shadow: inset -1px 0px 0px 0px rgba(255, 255, 255, 0.25), inset -2px 0px 25px 0px rgba(0, 0, 0, 0.5);
-				text-shadow: -1px -1px 1px black;
+				/*text-shadow: -1px -1px 1px black;*/
 			}
 
 				#navPanel .link {
