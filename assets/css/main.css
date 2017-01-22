@@ -1071,7 +1071,7 @@
 		background: #D4D9DD url("images/bg03.jpg");
 		color: #474f51;
 		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
+		font-family: 'Roboto', sans-serif;
 		line-height: 1.85em;
 		font-weight: 300;
 	}
@@ -1079,7 +1079,7 @@
 	input, textarea, select {
 		color: #474f51;
 		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
+		font-family: 'Roboto', sans-serif;
 		line-height: 1.85em;
 		font-weight: 300;
 	}
@@ -1313,7 +1313,7 @@
 				#header h1 {
 					position: absolute;
 					left: 0;
-					bottom: 35px;
+					bottom: 21px;
 					font-size: 2.75em;
 				}
 
@@ -1325,7 +1325,7 @@
 				#header nav {
 					position: absolute;
 					right: 0;
-					bottom: 35px;
+					bottom: 45px;
 					font-weight: 200;
 				}
 
@@ -1876,4 +1876,8 @@
 	#logo img {
 		max-width: 200px;
 		margin-top: 20px !important;
+	}
+
+	.marty-img {
+		max-width: 125px;
 	}
