@@ -1616,6 +1616,10 @@
 					margin: 0 0 1em 0;
 				}
 
+				#banner iframe {
+					width: 100% !important;
+				}
+
 		/* Features */
 
 			#features {
