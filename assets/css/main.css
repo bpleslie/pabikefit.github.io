@@ -1763,7 +1763,7 @@
 				}
 
 					#titleBar .title img {
-							width: 100%;
+						width: 100% !important;
 					}
 
 				#titleBar .toggle {
