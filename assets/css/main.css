@@ -1760,11 +1760,11 @@
 					font-size: 1.2em;
 					font-weight: 400;
 					line-height: 44px;
-
-					img {
-						width: 100%;
-					}
 				}
+
+					#titleBar .title img {
+							width: 100%;
+					}
 
 				#titleBar .toggle {
 					position: absolute;
