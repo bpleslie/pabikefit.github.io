@@ -1881,3 +1881,8 @@
 	.marty-img {
 		max-width: 125px;
 	}
+
+	strong {
+		color: #000;
+		font-weight: bold;
+	}
