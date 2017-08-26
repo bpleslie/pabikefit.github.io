@@ -1894,3 +1894,7 @@
 		color: #000;
 		font-weight: bold !important;
 	}
+
+	.row em {
+		font-style: italic !important;
+	}
